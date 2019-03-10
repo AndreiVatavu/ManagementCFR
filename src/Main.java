@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
-    public static int STATIONS_NUMBER = 3;
-    public static int WAGONS_NUMBER = 1;
-    public static int WAGON_COMPARTIMENTS = 3;
+    public static int STATIONS_NUMBER = 7;
+    public static int WAGONS_NUMBER = 5;
+    public static int WAGON_COMPARTIMENTS = 10;
     public static int COMPARTIMENT_SEATS = 8;
     public static int MAX_GROUP_NUMBER = 5;
 
