@@ -29,6 +29,7 @@ putea să stea toți 5 (Nr. Total de compartimente = 50, Nr. Maxim total de grup
 
 
 Descrierea algoritmului folosit
+
 	Algoritmul va pune toți oamenii pe locurile libere astfel încât grupurile să fie în același compartiment. Se vor împărții cât mai eficient grupurile în compartimente. Lista de rezervări va fi inițial goală. Comenzile programului:
 reserve stațieDePornire stațieDestinatie numărPersoaneGrup se va adăuga la listă, rezervarea respectivă și se verifică corectitudinea
 input-ului. 
